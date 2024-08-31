@@ -1,4 +1,6 @@
 import random
+print("Welcome to the Guess the Number game! \n I'm thinking of a number between 1 and 100. Can you guess what it is?")
+print(" READY!!! SO Let's start")
 my_guess=input("ENTREZ UN GUESS\n")
 
 def convertible(x):
